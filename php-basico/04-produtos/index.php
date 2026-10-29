@@ -16,14 +16,6 @@ $produtos = [
 <body>
 
     <table border="1" cellpadding="6">
-      <thead>
-        <tr>
-            <th>Produto</th>
-            <th>Preço</th>
-            <th>Estoque</th>
-            <th>Situação</th> 
-        </tr>
-      </thead>
       <tbody>
       <?php foreach ($produtos as $item): ?>
         <tr>

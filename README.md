@@ -24,4 +24,4 @@ e aprendi a implementar o php em html.
 - muitas coisas eu tentei fazer utilizando a lógica do html
 não deram muito certas, ent tive que adaptar um pouco e pesquisar.
 não foi muito difícil, difícil mesmo foi no início,
-já que eu não fazia ideia de como montar a estruitura.
+já que eu não fazia ideia de como montar a estrutura.

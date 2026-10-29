@@ -2,7 +2,8 @@
 $produtos = [
     ["nome" => "ASUS ROG Astral RTX 5090 Real Gold Edition", "preco" => 2.99, "estoque" => 1],
     ["nome" => "casinha de brinquedo da peppa-pig", "preco" => 1000000.99, "estoque" => 22],
-    ["nome" => "Cabo HDMI comum de 1 metro", "preco" => 15.00, "estoque" => 0], 
+    ["nome" => "Cabo HDMI comum de 1 metro", "preco" => 15.00, "estoque" => 10], 
+    ["nome" => "Antimateria", "preco" => 2.00 , "estoque" => 0], 
 ];
 ?>
 
